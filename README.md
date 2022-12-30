@@ -1,4 +1,4 @@
-# cannibals-dinner-problem
+# Cannibals Dinner Problem
 
 A tribe of savage cannibals is dining on captured missionaries. They stand around a large cauldron containing M portions of boiled missionary stew. When a wildling is hungry, he pours himself into the cauldron unless it is empty. When the cauldron is empty, a wild cannibal needs to wake the cook so that he can prepare a new portion of stew and fill the cauldron again. If the cauldron is empty, the wildling goes to sleep after waking the cook to await the feast. After filling the cauldron, the cook wakes up the wild cannibals who have been waiting for the stew to be ready and goes back to sleep.
 
