@@ -1,4 +1,5 @@
 # Cannibals Dinner Problem
+original source: http://marcial.larces.uece.br/cursos/programacao-concorrente-e-paralela-2018-2/problema-do-jantar-dos-canibais
 
 A tribe of savage cannibals is dining on captured missionaries. They stand around a large cauldron containing M portions of boiled missionary stew. When a wildling is hungry, he pours himself into the cauldron unless it is empty. When the cauldron is empty, a wild cannibal needs to wake the cook so that he can prepare a new portion of stew and fill the cauldron again. If the cauldron is empty, the wildling goes to sleep after waking the cook to await the feast. After filling the cauldron, the cook wakes up the wild cannibals who have been waiting for the stew to be ready and goes back to sleep.
 
@@ -24,4 +25,5 @@ The cook can only fill the cauldron when it is empty.
 
 # Task
 Develop a concurrent program for the actions of the cannibals and the cook. The program can be written in C, C++, Java or Python.
-The program should run for 2 min without deadlock or starvation. Indicate the events during program execution: cannibals serving, eating and sleeping, cook preparing or sleeping. At the end of the run, show how many times the cook needed to fill the cauldron, how many times each cannibal ate
+The program should run for 2 min without deadlock or starvation. Indicate the events during program execution: cannibals serving, eating and sleeping, cook preparing or sleeping. At the end of the run, show how many times the cook needed to fill the cauldron, how many times each cannibal ate.
+
